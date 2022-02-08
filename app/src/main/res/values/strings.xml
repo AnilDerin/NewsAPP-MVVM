@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Appcent News</string>
+    <string name="news">News</string>
+    <string name="favorites">Favorites</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search...</string>
+    <string name="news_source">News Source</string>
+</resources>
