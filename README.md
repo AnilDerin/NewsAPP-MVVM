@@ -8,13 +8,11 @@
 
 **<li> MVVM**
 **<li> Clean Architecture**
-**<li> Hawk Library**
-**<li> ViewModel**
 **<li> Retrofit**
 **<li> RxJava2**
+**<li> Hawk Library**
 **<li> LiveData**
 **<li> Coroutines**
-**<li> Transition Animations**
 
   
 
