@@ -10,7 +10,6 @@
 **<li> Clean Architecture**
 **<li> Hawk Library**
 **<li> ViewModel**
-**<li> Dependency Injection with Dagger-Hilt**
 **<li> Retrofit**
 **<li> RxJava2**
 **<li> LiveData**
