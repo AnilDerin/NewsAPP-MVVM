@@ -1,4 +1,4 @@
-## This is task project I built with Kotlin for AppCent. A News App built with MVMM Design Pattern.
+## This is task project I built with Kotlin. A News App built with MVMM Design Pattern.
 
 <br>
 
